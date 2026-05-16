@@ -1,0 +1,4 @@
+sha256_arm_shani.o: sha256_arm_shani.c /usr/include/stdc-predef.h \
+ ../config.h
+/usr/include/stdc-predef.h:
+../config.h:
