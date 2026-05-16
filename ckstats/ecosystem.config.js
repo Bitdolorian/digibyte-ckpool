@@ -3,7 +3,7 @@ module.exports = {
     name: "ckstats-dgb",
     script: "pnpm",
     args: "start",
-    cwd: "/home/umbrel/umbrel/app-data/digibyte/ckstats",
+    cwd: "/your path/digibyte/ckstats",
     interpreter: "none",
     autorestart: true,
     env: {
