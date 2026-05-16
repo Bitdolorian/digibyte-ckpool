@@ -3,7 +3,7 @@
 # CKStats dependency installer for DigiByte instance
 # Umbrel‑compatible, pnpm‑safe
 
-CKSTATS_DIR="/home/umbrel/umbrel/app-data/digibyte/ckstats"
+CKSTATS_DIR="/you path to/digibyte/ckstats"
 
 echo ">>> Switching to CKStats directory..."
 cd "$CKSTATS_DIR" || { echo "Directory not found"; exit 1; }
